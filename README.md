@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Ishwar</h1>
 
 <p align="center">
-Computer Vision & Machine Learning | Focused on real-world data pipelines and system reliability
+  <b>Computer Vision & Machine Learning</b><br>
+  Data Pipelines • Model Reliability • Real-World Systems
 </p>
 
 ---
