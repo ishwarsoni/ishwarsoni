@@ -1,69 +1,53 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Ishwar;Machine+Learning+Intern;Applied+ML+%26+Data+Pipelines;Building+Real-World+Systems" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Ishwar</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishwar3917&label=Profile%20Views&color=0e75b6&style=flat" alt="ishwar3917" />
+Computer Vision & Machine Learning | Focused on real-world data pipelines and system reliability
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Computer Science Student** with hands-on experience in **Applied Machine Learning** and **Data Pipelines**.
-- 🔭 Currently working on **End-to-End ML Systems** (Data Cleaning → Modeling → Evaluation → Inference).
-- 🦴 Experience processing large-scale **Motion Capture Data (BVH)** for 3D applications.
-- 🛠 Interested in building **Production-Ready ML Pipelines**, model evaluation, and real-world debugging.
+- Computer Science student with hands-on experience in **Computer Vision and ML systems**
+- Worked on **human motion processing pipelines (BVH → SMPL-H)** using real-world datasets
+- Interested in building **reliable ML systems**, not just training models
 
 ---
 
-### 🔧 What I Actually Build
+### 🔥 Key Work
 
-I focus on engineering robust solutions rather than just training models in notebooks:
-* **End-to-End Pipelines:** Automating the flow from raw data ingestion to model inference.
-* **Data Integrity:** Implementing preprocessing systems that prevent data leakage.
-* **Real-World Constraints:** optimizing for inference speed and stability, not just training accuracy.
-* **Mocap Processing:** specialized cleanup and stabilization for 3D animation data.
+#### 🦴 Motion Processing Pipeline (BVH → SMPL-H)
+- Built an end-to-end system to clean and convert motion capture data
+- Solved issues like **orientation errors, joint inconsistencies, and noisy sequences**
+- Implemented **smoothing and grounding techniques** for stable motion output
+- Designed batch processing for large datasets
 
-### 📊 How I Evaluate Models
+#### 🏠 House Price Prediction System
+- Built regression model using XGBoost
+- Handled **13k+ records**, missing data, and outliers
+- Focused on improving **MAE/RMSE**, not just accuracy
 
-I prioritize **business metrics** and **reliability** over vanity metrics:
-* Focus on **MAE/RMSE** for regression and **Precision/Recall** for imbalanced classification.
-* Prioritize stable inference behavior over fragile leaderboard scores.
-* Validate models on out-of-time or real-world data splits.
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🏠 Bengaluru House Price Predictor** | End-to-end regression system using XGBoost, served via FastAPI for real-time inference. | `Python` `XGBoost` `FastAPI` |
-| **🦴 Mocap Data Pipeline** | Automated preprocessing and stabilization of raw BVH motion data for 3D models. | `Python` `Data Processing` |
-| **⚙️ ML Preprocessing Pipelines** | Modular Scikit-learn pipelines preventing data leakage and ensuring consistent behavior. | `Scikit-learn` `Pipelines` |
-| **🕸️ Company Data Scraper** | Scalable web scraping pipeline extracting structured data from 10,000+ company profiles. | `Python` `Pandas` |
+#### ⚙️ ML Pipeline Architecture
+- Designed modular preprocessing pipelines using Scikit-learn
+- Prevented **data leakage** and ensured consistent training/inference behavior
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🧠 What I Focus On
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- Writing clean and reliable ML pipelines
+- Handling real-world data issues (noise, scaling, inconsistencies)
+- Model evaluation using practical metrics (MAE, RMSE, Precision/Recall)
 
 ---
 
-### 🌐 Connect with Me
+### 🛠 Tech Stack
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ishwar-soni-cs/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:ishwarsoni2917@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
+Python • NumPy • Pandas • Scikit-learn • Git • Jupyter
+
+---
+
+### 🌐 Links
+
+- GitHub: https://github.com/ishwarsoni  
+- LinkedIn: https://www.linkedin.com/in/ishwar-soni-cs/
