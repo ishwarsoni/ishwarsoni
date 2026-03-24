@@ -1,54 +1,68 @@
-<h1 align="center">Hi, I'm Ishwar</h1>
+<h1 align="center">Hi, I'm Ishwar Soni</h1>
 
 <p align="center">
-  <b>Computer Vision & Machine Learning</b><br>
-  Data Pipelines • Model Reliability • Real-World Systems
+  <b>Computer Vision & ML Engineer</b><br>
+  Data Pipelines • Autonomous Agents • Real-World ML Systems
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- Computer Science student with hands-on experience in **Computer Vision and ML systems**
-- Worked on **human motion processing pipelines (BVH → SMPL-H)** using real-world datasets
-- Interested in building **reliable ML systems**, not just training models
+- Former **Computer Vision Intern at Semantic Labs**, specializing in motion processing and ML systems.
+- I build **reliable ML systems and autonomous AI agents**, focusing on real-world data rather than just notebooks.
+- Currently working on systems for data extraction, automation, and predictive modeling.
 
 ---
 
-### 🔥 Key Work
+### 🔥 Top Projects
 
-#### 🦴 Motion Processing Pipeline (BVH → SMPL-H)
-- Built an end-to-end system to clean and convert motion capture data
-- Solved issues like **orientation errors, joint inconsistencies, and noisy sequences**
-- Implemented **smoothing and grounding techniques** for stable motion output
-- Designed batch processing for large datasets
-
-#### 🏠 House Price Prediction System
-- Built regression model using XGBoost
-- Handled **13k+ records**, missing data, and outliers
-- Focused on improving **MAE/RMSE**, not just accuracy
-
-#### ⚙️ ML Pipeline Architecture
-- Designed modular preprocessing pipelines using Scikit-learn
-- Prevented **data leakage** and ensured consistent training/inference behavior
+#### 🦴 [Motion Processing Pipeline (BVH → SMPL-H)](https://github.com/ishwarsoni/bvh-to-smplh-pipeline)
+* **Tech:** Python  
+* Built an end-to-end system to clean and convert motion capture data  
+* Solved orientation errors and joint inconsistencies  
+* Applied smoothing and grounding for stable outputs  
 
 ---
 
-### 🧠 What I Focus On
+#### 🤖 [NEXARA - Autonomous AI Web Agent](https://github.com/ishwarsoni/nexara-ai)
+* **Tech:** Python, Gemini  
+* Built an AI agent that understands webpages and performs actions  
+* Extracts structured data using LLM-based workflows  
 
-- Writing clean and reliable ML pipelines
-- Handling real-world data issues (noise, scaling, inconsistencies)
-- Model evaluation using practical metrics (MAE, RMSE, Precision/Recall)
+---
+
+#### 🏠 [Bengaluru House Price Predictor](https://github.com/ishwarsoni/bengaluru-house-price-predictor)
+* **Tech:** Python, XGBoost, Scikit-learn  
+* Trained regression model on 13k+ records  
+* Handled missing values and outliers  
+* Evaluated using MAE and RMSE  
+
+---
+
+#### ⚙️ [Job Outreach AI Automation](https://github.com/ishwarsoni/job-outreach-ai)
+* **Tech:** Python, LLMs  
+* Built tool to find hiring managers and generate personalized outreach  
+
+---
+
+### 🧠 Engineering Focus
+
+- Data pipelines for messy real-world data  
+- Model evaluation and reliability  
+- Practical AI systems using LLMs  
 
 ---
 
 ### 🛠 Tech Stack
 
-Python • NumPy • Pandas • Scikit-learn • Git • Jupyter
+**Languages:** Python  
+**ML & Data:** Scikit-learn, XGBoost, Pandas, NumPy, BeautifulSoup  
+**Tools:** Git, Jupyter  
 
 ---
 
-### 🌐 Links
+### 🌐 Let's Connect
 
-- GitHub: https://github.com/ishwarsoni  
-- LinkedIn: https://www.linkedin.com/in/ishwar-soni-cs/
+- **LinkedIn:** https://www.linkedin.com/in/ishwar-soni-cs/  
+- **Email:** ishwarsoni2917@gmail.com  
