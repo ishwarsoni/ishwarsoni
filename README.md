@@ -102,21 +102,12 @@
 
 ---
 
----
-
----
-
 # 📊 GitHub Stats
 
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishwarsoni&theme=tokyo-night"/>
 </p>
-
----
-
----
-
 
 ---
 
