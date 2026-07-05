@@ -22,84 +22,59 @@
 - 🌱 Learning advanced ML Engineering
 
 ---
-
 # 🔥 Featured Projects
 
-## 🦴 Motion Processing Pipeline
-**BVH → SMPL-H**
+## 🦴 BVH-to-SMPLH Motion Pipeline
 
-- Motion cleaning
-- Joint correction
-- Grounding
-- Smoothing
-- Stable pose generation
+**Reliable Motion Capture Processing Pipeline**
+
+- Convert BVH motion capture data to SMPL-H format
+- Motion stabilization and foot-lock correction
+- Robust grounding and orientation fixes
+- Batch BVH ↔ NPZ processing
+- MP4 motion visualization for debugging
 
 **Tech**
 
-`Python` `NumPy`
+`Python` `NumPy` `SciPy` `Matplotlib`
 
 🔗 https://github.com/ishwarsoni/bvh-to-smplh-pipeline
 
 ---
 
-## 🤖 NEXARA — Autonomous AI Agent
+## 🎮 VisionFX — Real-Time Computer Vision & AR Engine
 
-- Understands webpages
-- Extracts structured data
-- AI-driven automation
+**Experimental Real-Time Computer Vision & VFX Engine**
 
-**Tech**
-
-`Python` `Gemini`
-
-🔗 https://github.com/ishwarsoni/nexara-ai
-
----
-
-## 🏠 Bengaluru House Price Predictor
-
-- Regression model
-- Feature Engineering
-- Outlier Removal
-- MAE / RMSE Evaluation
+- Real-time hand and face tracking
+- Gesture-driven visual effects
+- Anime-inspired AR overlays
+- Low-latency webcam processing
+- Modular VFX pipeline with optional GPU acceleration
 
 **Tech**
 
-`Python` `Scikit-Learn` `XGBoost`
+`Python` `OpenCV` `MediaPipe` `ModernGL`
 
-🔗 https://github.com/ishwarsoni/bengaluru-house-price-predictor
+🔗 https://github.com/ishwarsoni/VisionFX
 
 ---
 
-## ⚙ Job Outreach AI
+## 🧹 DataCleaner — ML-Safe Data Cleaning Library
 
-- Finds hiring managers
-- Generates personalized outreach
+**Production-Ready Data Preprocessing Library**
+
+- Safe preprocessing for machine learning datasets
+- Intelligent missing value handling
+- Smart datatype conversion
+- Outlier and skewness correction
+- Detailed cleaning reports for transparency
 
 **Tech**
 
-`Python` `LLMs`
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
-🔗 https://github.com/ishwarsoni/job-outreach-ai
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,docker"/>
-
-</p>
-
-### ML Libraries
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- XGBoost
-- BeautifulSoup
-
+🔗 https://github.com/ishwarsoni/datacleaner
 ---
 
 # 📊 GitHub Stats
