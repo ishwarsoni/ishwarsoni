@@ -1,68 +1,179 @@
-<h1 align="center">Hi, I'm Ishwar Soni</h1>
+
+# <h1 align="center">Hi 👋, I'm Ishwar Soni</h1>
 
 <p align="center">
-  <b>Computer Vision & ML Engineer</b><br>
-  Data Pipelines • Autonomous Agents • Real-World ML Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,100:00D4FF&text=ISHWAR%20SONI&fontAlignY=40&fontSize=55&desc=Computer%20Vision%20•%20Machine%20Learning%20•%20AI%20Systems&descAlignY=60" />
+</p>
+
+<h3 align="center">Computer Vision Engineer • Machine Learning Engineer • Python Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Computer+Vision+Engineer;Machine+Learning+Engineer;Building+Real-World+AI+Systems;Autonomous+AI+Agents;Python+Developer" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 🚀 About Me
 
-- Former **Computer Vision Intern at Semantic Labs**, specializing in motion processing and ML systems.
-- I build **reliable ML systems and autonomous AI agents**, focusing on real-world data rather than just notebooks.
-- Currently working on systems for data extraction, automation, and predictive modeling.
-
----
-
-### 🔥 Top Projects
-
-#### 🦴 [Motion Processing Pipeline (BVH → SMPL-H)](https://github.com/ishwarsoni/bvh-to-smplh-pipeline)
-* **Tech:** Python  
-* Built an end-to-end system to clean and convert motion capture data  
-* Solved orientation errors and joint inconsistencies  
-* Applied smoothing and grounding for stable outputs  
+- 🎓 Computer Science Student
+- 🧠 Former Computer Vision Intern
+- 🤖 Building production-focused AI systems
+- 🔬 Interested in Computer Vision, LLMs and Automation
+- 🌱 Learning advanced ML Engineering
 
 ---
 
-#### 🤖 [NEXARA - Autonomous AI Web Agent](https://github.com/ishwarsoni/nexara-ai)
-* **Tech:** Python, Gemini  
-* Built an AI agent that understands webpages and performs actions  
-* Extracts structured data using LLM-based workflows  
+# 🔥 Featured Projects
+
+## 🦴 Motion Processing Pipeline
+**BVH → SMPL-H**
+
+- Motion cleaning
+- Joint correction
+- Grounding
+- Smoothing
+- Stable pose generation
+
+**Tech**
+
+`Python` `NumPy`
+
+🔗 https://github.com/ishwarsoni/bvh-to-smplh-pipeline
 
 ---
 
-#### 🏠 [Bengaluru House Price Predictor](https://github.com/ishwarsoni/bengaluru-house-price-predictor)
-* **Tech:** Python, XGBoost, Scikit-learn  
-* Trained regression model on 13k+ records  
-* Handled missing values and outliers  
-* Evaluated using MAE and RMSE  
+## 🤖 NEXARA — Autonomous AI Agent
+
+- Understands webpages
+- Extracts structured data
+- AI-driven automation
+
+**Tech**
+
+`Python` `Gemini`
+
+🔗 https://github.com/ishwarsoni/nexara-ai
 
 ---
 
-#### ⚙️ [Job Outreach AI Automation](https://github.com/ishwarsoni/job-outreach-ai)
-* **Tech:** Python, LLMs  
-* Built tool to find hiring managers and generate personalized outreach  
+## 🏠 Bengaluru House Price Predictor
+
+- Regression model
+- Feature Engineering
+- Outlier Removal
+- MAE / RMSE Evaluation
+
+**Tech**
+
+`Python` `Scikit-Learn` `XGBoost`
+
+🔗 https://github.com/ishwarsoni/bengaluru-house-price-predictor
 
 ---
 
-### 🧠 Engineering Focus
+## ⚙ Job Outreach AI
 
-- Data pipelines for messy real-world data  
-- Model evaluation and reliability  
-- Practical AI systems using LLMs  
+- Finds hiring managers
+- Generates personalized outreach
 
----
+**Tech**
 
-### 🛠 Tech Stack
+`Python` `LLMs`
 
-**Languages:** Python  
-**ML & Data:** Scikit-learn, XGBoost, Pandas, NumPy, BeautifulSoup  
-**Tools:** Git, Jupyter  
+🔗 https://github.com/ishwarsoni/job-outreach-ai
 
 ---
 
-### 🌐 Let's Connect
+# 💻 Tech Stack
 
-- **LinkedIn:** https://www.linkedin.com/in/ishwar-soni-cs/  
-- **Email:** ishwarsoni2917@gmail.com  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,docker"/>
+
+</p>
+
+### ML Libraries
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- XGBoost
+- BeautifulSoup
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishwarsoni&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarsoni&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarsoni&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwarsoni&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ishwarsoni&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- Computer Vision
+- Machine Learning
+- Autonomous AI Agents
+- Production AI Systems
+- Data Pipelines
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ishwar-soni-cs/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ishwarsoni2917@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ishwarsoni&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:00D4FF"/>
+</p>
