@@ -142,7 +142,7 @@ Machine Learning Engineer • AI Engineer • Python Developer
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
